@@ -14,7 +14,7 @@ assignees: ''
 
 ## Pitch
 
-## Task Listt
+## Task List
 
 ## Alternatives
 <!-- Describe alternatives you've considered  -->
