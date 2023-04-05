@@ -9,12 +9,16 @@ assignees: ''
 
 ## 🚀 Feature 
 <!-- A clear and concise description of what the problem is. -->
+<!-- 既知の問題に対する改善内容や追加する機能について記載 -->
 
 ## Motivation
+<!-- 今回の実装の範囲をしっかり記載 -->
 
 ## Pitch
+<!-- 機能の実現方針を記載 -->
 
 ## Task List
+<!-- 詳細タスクが存在する場合に記載 -->
 
 ## Alternatives
 <!-- Describe alternatives you've considered  -->
